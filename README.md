@@ -30,7 +30,7 @@ Copie os arquivos da tarefa anterior:
   - copiar método use	
   - copiar códigos de compilação e linkagem do shader no __init__ (não copiar método inteiro)
 
-- [ ] urenderer/renderer/opengl/opengl_renderer.py:
+- [X] urenderer/renderer/opengl/opengl_renderer.py:
   - copiar códigos de inicialização do GLFW, janela e contexto no __init__ (não copiar método inteiro)
   - copiar código de inicialização dos buffers de cor de profundidade no start (não copiar método inteiro)
   - render_valid_node: copiar definição das matrizes de transformação do shader (não copiar método inteiro)
