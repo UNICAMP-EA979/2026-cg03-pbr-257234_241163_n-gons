@@ -21,16 +21,16 @@ Alguns códigos de shaders possuem a diretiva de pré-processador `#include "nom
 
 Copie os arquivos da tarefa anterior:
 
-- [ ] urenderer/node/node.py
-- [ ] urenderer/node/camera.py
-- [ ] urenderer/aplication/runtime.py: copie **apenas** as funções que implementou na última tarefa.
-- [ ] urenderer/renderer/opengl/texture.py: copiar métodos bind_at_unit e __init__
+- [X] urenderer/node/node.py
+- [X] urenderer/node/camera.py
+- [X] urenderer/aplication/runtime.py: copie **apenas** as funções que implementou na última tarefa.
+- [X] urenderer/renderer/opengl/texture.py: copiar métodos bind_at_unit e __init__
 
-- [ ] urenderer/renderer/opengl/shader.py: 
+- [X] urenderer/renderer/opengl/shader.py: 
   - copiar método use	
   - copiar códigos de compilação e linkagem do shader no __init__ (não copiar método inteiro)
 
-- [ ] urenderer/renderer/opengl/opengl_renderer.py:
+- [X] urenderer/renderer/opengl/opengl_renderer.py:
   - copiar códigos de inicialização do GLFW, janela e contexto no __init__ (não copiar método inteiro)
   - copiar código de inicialização dos buffers de cor de profundidade no start (não copiar método inteiro)
   - render_valid_node: copiar definição das matrizes de transformação do shader (não copiar método inteiro)
