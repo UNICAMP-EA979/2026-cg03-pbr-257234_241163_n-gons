@@ -26,7 +26,7 @@ Copie os arquivos da tarefa anterior:
 - [X] urenderer/aplication/runtime.py: copie **apenas** as funções que implementou na última tarefa.
 - [X] urenderer/renderer/opengl/texture.py: copiar métodos bind_at_unit e __init__
 
-- [ ] urenderer/renderer/opengl/shader.py: 
+- [X] urenderer/renderer/opengl/shader.py: 
   - copiar método use	
   - copiar códigos de compilação e linkagem do shader no __init__ (não copiar método inteiro)
 
