@@ -21,9 +21,9 @@ Alguns códigos de shaders possuem a diretiva de pré-processador `#include "nom
 
 Copie os arquivos da tarefa anterior:
 
-- [ ] urenderer/node/node.py
-- [ ] urenderer/node/camera.py
-- [ ] urenderer/aplication/runtime.py: copie **apenas** as funções que implementou na última tarefa.
+- [X] urenderer/node/node.py
+- [X] urenderer/node/camera.py
+- [X] urenderer/aplication/runtime.py: copie **apenas** as funções que implementou na última tarefa.
 - [ ] urenderer/renderer/opengl/texture.py: copiar métodos bind_at_unit e __init__
 
 - [ ] urenderer/renderer/opengl/shader.py: 
